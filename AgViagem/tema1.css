@@ -1,0 +1,6 @@
+#containerTotal {
+    padding: 0px 20px 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
